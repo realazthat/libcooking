@@ -1,0 +1,4 @@
+libcooking
+==========
+
+NPC reductions library
